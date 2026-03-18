@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "sessionlogin",
+  "version": "${version}",
+  "name": "SessionLogIn",
+  "description": "This Is A Simple Minecraft Fabric Mod That Lets You Log Into A Minecraft Account Using Only The Session ID",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/sessionlogin/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.Cooltechno.sessionlogin.client.MainClient"
+    ],
+    "main": [
+      "de.Cooltechno.sessionlogin.Main"
+    ]
+  },
+  "mixins": [
+    "sessionlogin.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
