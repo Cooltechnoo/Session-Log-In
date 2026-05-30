@@ -2,7 +2,7 @@ Here is a clean, "human-written" README that stays away from the typical AI-gene
 
 ---
 
-# SessionLogin (Fabric 1.21.1)
+# SessionLogin (Fabric 1.21.11)
 
 A simple Fabric mod for swapping Minecraft accounts/sessions on the fly without restarting the game. Perfect for developers or people managing multiple accounts.
 
