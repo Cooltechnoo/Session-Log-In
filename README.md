@@ -2,7 +2,7 @@
 
 A sleek, client-side utility mod for Fabric that lets you re-authenticate, switch accounts, and refresh expired Microsoft sessions directly from the in-game main menu. No more restarting Minecraft just because your login token timed out.
 
-![Minecraft version](https://img.shields.io/badge/Minecraft-1.21.x-blue?style=for-the-badge&logo=minecraft)
+![Minecraft version](https://img.shields.io/badge/Minecraft-1.21.11-blue?style=for-the-badge&logo=minecraft)
 ![Loader](https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-OAuth2-success?style=for-the-badge)
 
